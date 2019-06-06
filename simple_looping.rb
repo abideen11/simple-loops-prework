@@ -13,6 +13,7 @@ def loop_iterator(number_of_times)
   loop do iterator < 7 
     puts phrase 
     iterator += 1
+    if iterator 
   end 
   
 end
